@@ -48,6 +48,5 @@ public class Leetcode147 {
             nodes[j+1] = node2;
         }
         return nodes[1];
-
     }
 }
